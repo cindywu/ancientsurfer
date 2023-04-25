@@ -1,6 +1,7 @@
 export default function Home() {
   return (
     <div className={"p-4"}>
+      <div className={"text-8xl pb-8"}>🌊</div>
       <div>
         first is the worst
       </div>
